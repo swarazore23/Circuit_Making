@@ -1,1 +1,6 @@
-
+So we decided to make a camera using the knowledge of circuits
+We have used LED's and buzzer in parallel combination for it to work
+The circuit gets complete on pressing the button of the camera, thus, works as an interactive circuit
+On pressing the button of the camera, there is a flash of red light and the sound of the buzzer
+Internally both these are connected to a battery
+This was our output for an interactive circuit
